@@ -1,0 +1,2 @@
+# Zhgyak
+egyeneskiesős rendszerű program
